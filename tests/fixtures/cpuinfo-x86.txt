@@ -1,0 +1,3 @@
+processor : 0
+model name : Example CPU 9000
+processor : 1

@@ -1,0 +1,4 @@
+Hardware : Generic Board
+processor : 0
+model name : Priority CPU
+processor : 1
